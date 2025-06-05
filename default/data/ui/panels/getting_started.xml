@@ -9,7 +9,7 @@
     </ul>  
     <p> -1- Make sure the threathunting index is present on your indexers</p>
     <p> -2- Edit the macro's to suit your environment (index searches are set to windows by default) </p>
-      <li><a class="external text" target="_blank" href="../../manager/ThreatHunting/admin/macros">Edit Macro's here</a></li>
+      <li><a class="external text" target="_blank" href="../../manager/ThreatHunting/data/macros">Edit Macro's here</a></li>
     <p> -3- Install all required visualisations</p>
   </html>
 </panel>
